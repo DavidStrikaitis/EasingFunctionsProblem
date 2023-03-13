@@ -1,0 +1,132 @@
+﻿  Easing.cpp
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(48,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(57,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(61,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(61,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(65,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(69,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(73,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(77,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(77,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(81,42): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(141,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(142,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(151,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Methods.h(152,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(94,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(110,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(119,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(120,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(122,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(122,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(127,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(127,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(129,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(130,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(130,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(137,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(137,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(167,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(174,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(181,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(190,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(191,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(221,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(187,11): warning C4101: 'y': unreferenced local variable
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(247,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(260,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(271,48): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(275,51): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(279,48): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(285,54): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(301,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(302,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(303,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(304,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(309,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(310,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(311,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(321,132): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(338,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(372,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(418,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(419,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\c00283152\Desktop\Easing\Easing\Easing.cpp(465,46): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : warning LNK4217: symbol '??0String@sf@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVlocale@3@@Z (public: __thiscall sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &))' defined in 'sfml-system-s-d.lib(String.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '??1String@sf@@QAE@XZ (public: __thiscall sf::String::~String(void))' defined in 'Easing.obj' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z (public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &))' defined in 'sfml-graphics-s-d.lib(Transformable.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '?setScale@Transformable@sf@@QAEXMM@Z (public: void __thiscall sf::Transformable::setScale(float,float))' defined in 'sfml-graphics-s-d.lib(Transformable.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '?setOrigin@Transformable@sf@@QAEXMM@Z (public: void __thiscall sf::Transformable::setOrigin(float,float))' defined in 'sfml-graphics-s-d.lib(Transformable.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '??0Vertex@sf@@QAE@XZ (public: __thiscall sf::Vertex::Vertex(void))' defined in 'sfml-graphics-s-d.lib(Vertex.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::drawGraph(void)" (?drawGraph@Graph@@QAEXXZ)'
+LINK : warning LNK4217: symbol '?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z (public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &))' defined in 'sfml-graphics-s-d.lib(RenderTarget.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '?draw@RenderTarget@sf@@QAEXPBVVertex@2@IW4PrimitiveType@2@ABVRenderStates@2@@Z (public: void __thiscall sf::RenderTarget::draw(class sf::Vertex const *,unsigned int,enum sf::PrimitiveType,class sf::RenderStates const &))' defined in 'sfml-graphics-s-d.lib(RenderTarget.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::drawGraph(void)" (?drawGraph@Graph@@QAEXXZ)'
+LINK : warning LNK4217: symbol '??0Text@sf@@QAE@ABVString@1@ABVFont@1@I@Z (public: __thiscall sf::Text::Text(class sf::String const &,class sf::Font const &,unsigned int))' defined in 'sfml-graphics-s-d.lib(Text.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '?setCharacterSize@Text@sf@@QAEXI@Z (public: void __thiscall sf::Text::setCharacterSize(unsigned int))' defined in 'sfml-graphics-s-d.lib(Text.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '?getLocalBounds@Text@sf@@QBE?AV?$Rect@M@2@XZ (public: class sf::Rect<float> __thiscall sf::Text::getLocalBounds(void)const )' defined in 'sfml-graphics-s-d.lib(Text.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '?getGlobalBounds@Text@sf@@QBE?AV?$Rect@M@2@XZ (public: class sf::Rect<float> __thiscall sf::Text::getGlobalBounds(void)const )' defined in 'sfml-graphics-s-d.lib(Text.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '??1Text@sf@@UAE@XZ (public: virtual __thiscall sf::Text::~Text(void))' defined in 'Easing.obj' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '?Default@RenderStates@sf@@2V12@B (public: static class sf::RenderStates const sf::RenderStates::Default)' defined in 'sfml-graphics-s-d.lib(RenderStates.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::centredText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Vector2<float>,int,bool)" (?centredText@Graph@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Vector2@M@sf@@H_N@Z)'
+LINK : warning LNK4217: symbol '?White@Color@sf@@2V12@B (public: static class sf::Color const sf::Color::White)' defined in 'sfml-graphics-s-d.lib(Color.cpp.obj)' is imported by 'Graph.obj' in function '"public: void __thiscall Graph::drawGraph(void)" (?drawGraph@Graph@@QAEXXZ)'
+TargetFunctions.lib(pch.obj) : warning LNK4099: PDB 'TargetFunctions.pdb' was not found with 'TargetFunctions.lib(pch.obj)' or at 'C:\Users\c00283152\Desktop\Easing\Easing\Debug\TargetFunctions.pdb'; linking object as if no debug info
+TargetFunctions.lib(TargetFunctions.obj) : warning LNK4099: PDB 'TargetFunctions.pdb' was not found with 'TargetFunctions.lib(TargetFunctions.obj)' or at 'C:\Users\c00283152\Desktop\Easing\Easing\Debug\TargetFunctions.pdb'; linking object as if no debug info
+  Easing.vcxproj -> C:\Users\c00283152\Desktop\Easing\Easing\Debug\Easing.exe
